@@ -1,0 +1,229 @@
+@media screen and (max-width: 480px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    #video-background-main,
+    .article-informations-1 {
+        display: none;
+    }
+
+    .img-cellphone-main {
+        width: 220%;
+        margin: 84px auto 0;
+        position: relative;
+        z-index: 2;
+        top: 106px;
+        right: 125px;
+    }
+
+    .mensage-main-serviços {
+        width: 183%;
+        position: relative;
+        bottom: 44px;
+        right: 62px;
+    }
+
+    .paragraph-serviços-div-5 {
+        width: 357px;
+        font-size: 19px;
+        font-weight: 600;
+        margin: 20px auto;
+        text-align: justify;
+        position: relative;
+        right: 304px;
+        top: 40px;
+    }
+
+    .iphone,
+    .ipad,
+    .motorola,
+    .lenovo,
+    .xiaomi,
+    .samsumg,
+    .asus,
+    .LG {
+        display: none;
+    }
+
+    .iphone-logo,
+    .ipad-logo,
+    .motorola-logo,
+    .lenovo-logo,
+    .xiaomi-logo,
+    .samsumg-logo,
+    .asus-logo,
+    .LG-logo {
+        display: none;
+    }
+
+    .cellphone-background-container-2 {
+        width: 100%;
+        height: 555px;
+        top: 109px;
+        background-image: linear-gradient(to right, #222050, #29b1da);
+        position: absolute;
+        z-index: 1;
+    }
+
+    .cellphone-background-container {
+        width: 100%;
+        height: 392px;
+        background-image: linear-gradient(to right,  #222050, #29b1da);
+        position: relative;
+        z-index: 1;
+        top: 0;
+    }
+
+    .final-message {
+        text-align: center;
+        margin-top: 9px;
+        background-color: #000000;
+        padding: 20px 0;
+        position: relative;
+        bottom: 0;
+    }
+
+    .article-cellphone-informations {
+        display: none;
+    }
+
+    .article-informations-2 {
+        width: 123%;
+        font-size: 147%;
+        position: relative;
+        right: 83px;
+        bottom: 216px;
+    }
+
+    .mensage-1 {
+        width: 753%;
+        position: relative;
+        right: 310px;
+        bottom: 193px;
+    }
+
+
+    #all-elements-move {
+        width: 639%;
+    }
+
+    .bateria-icon {
+        width: 220%;
+        position: relative;
+        right: 360px;
+        bottom: 162px;
+    }
+
+    .conector-de-carga-icon {
+        width: 215%;
+        position: relative;
+        right: 238px;
+        bottom: 168px;
+    }
+
+    .auto-falante-icon {
+        position: relative;
+        right: 497px;
+        top: 45px;
+        width: 234%;
+    }
+
+    .botoes-flex {
+        position: relative;
+        top: 43px;
+        right: 365px;
+        width: 120px;
+    }
+
+    .mensage-2 {
+        z-index: 2;
+        display: block;
+        width: 80%;
+        position: relative;
+        top: -51px;
+        right: 42px;
+    }
+
+    .mensage-variedades {
+        width: 96%;
+        margin: 22px -6px -60px 2%;
+    }
+
+    #video-main {
+        width: 96.2%;
+        margin: -26px 0 2% 7px;
+        border-radius: 10px;
+    }
+
+    .article-cellphone-informations-2 {
+        display: block;
+        position: absolute;
+        top: 1700px;
+        left: 12px;
+        z-index: 2;
+        width: 123%;
+    }
+
+    .whatsapp-serviços-div-6 {
+        display: none;
+    }
+
+    .paragraph-action-figure-2 {
+        z-index: 2;
+        width: 2087%;
+        font-size: 113%;
+        position: relative;
+        bottom: 111px;
+        left: -308px;
+        color: #fff;
+        margin: -9px 0 -1px -1px;
+        font-family: 'Montserrat', sans-serif;
+        text-shadow: 0 0 10px #000000;
+    }
+
+    .robocop-img {
+        display: none;
+    }
+
+    .peliculas {
+        display: block;
+        width: 96%;
+        position: relative;
+        right: 51px;
+
+    }
+
+    .capinhas {
+        display: block;
+        width: 96%;
+        margin: 10px 0 0 8px;
+    }
+
+    .figuras-de-ação {
+        display: block;
+        width: 96%;
+        margin: 10px 0 0 8px;
+    }
+
+    .fones-de-ouvido {
+        display: block;
+        width: 96%;
+        margin: 12px 0 -30px 8px;
+    }
+
+    .paragraph-action-figure {
+        position: relative;
+        top: 70px;
+    }
+
+    .background-nav {
+        display: none;
+    }
+
+    .paragraph-text {
+        position: relative;
+        bottom: 130px;
+    }
+
+}

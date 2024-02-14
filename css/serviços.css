@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.background-nav {
+    width: 1903px;
+    height: 62px;
+    background: #302C2C;
+    position: absolute;
+    z-index: 2;
+    top: 1px;
+}
+
+.article-img-main {
+    width: 100%;
+    height: 857px;
+    margin: 0 0 0 0;
+}
+
+.container-left {
+    display: inline-block;
+}
+
+.mensage-left {
+    margin: 0% -65px 0 14%;
+    width: 45%;
+    position: relative;
+    bottom: 25%;
+    left: 42px;
+    z-index: 1;
+}
+
+.button-main {
+    width: 10%;
+    position: absolute;
+    left: 43%;
+    bottom: -77px;
+}
+
+.container-right {
+    display: inline-block;
+}
+
+.cellphone-right {
+    width: 34%;
+    margin: 1% 0 0 1%;
+    position: relative;
+    z-index: 1;
+}
+
+.img-cellphone-main {
+    transition: 0.3s;
+}
+
+.img-cellphone-main:hover {
+    scale: 1.1;
+    transition: 0.3s;
+}
+
+#video-background-main {
+    position: relative;
+    z-index: 0;
+    margin: -46% 0 0 0%;
+    width: 100%;
+}
+
+.mensage-1 {
+    margin: 7% 0 4% 0;
+}
+
+.serviços-div-1,
+.serviços-div-2,
+.serviços-div-3,
+.serviços-div-4 {
+    display: inline-block;
+    width: 20%;
+}
+
+.serviços-div-5,
+.serviços-div-6 {
+    display: inline-block;
+}
+
+.paragraph-serviços-div-5 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 73px 0 0 165px;
+    width: 58%;
+}
+
+.article-cellphone-informations {
+    position: relative;
+    left: -1%;
+    bottom: 49px;
+    position: relative;
+    z-index: 2;
+}
+
+.cellphone-background-container {
+    width: 1903px;
+    height: 906px;
+    background-image: linear-gradient(to right, #5c9ac3, #083263);
+    position: absolute;
+    z-index: 1;
+    top: 2670px;
+}
+
+#all-elements-move {
+    margin: 2px 0 0 77px;
+}
+
+.whatsapp-serviços-div-6 {
+    width: 25%;
+    position: relative;
+    left: 68%;
+    bottom: 19px;
+}
+
+.bateria-icon {
+    margin: 0px 0 -3px 0px;
+    width: 78%;
+}
+
+.auto-falante-icon {
+    width: 82%;
+}
+
+.botoes-flex {
+    width: 68%;
+}
+
+.whatsapp-serviços-div-6:hover {
+    opacity: 0.5;
+}
+
+.whatsapp-serviços-div-6:active {
+    opacity: 1;
+}
+
+.article-informations-1,
+.article-informations-2 {
+    display: inline-block;
+}
+
+.article-informations-1 {
+    width: 22%;
+    margin: 0% 2px -8px -145px;
+}
+
+.article-informations-2 {
+    width: 60%;
+    font-size: 200%;
+    text-align: justify;
+    color: #fff;
+    position: relative;
+    bottom: 129px;
+    text-shadow: 0 0 10px #000;
+    top: -72px;
+}
+
+.article-informations {
+    margin: 2% 0 0 25%;
+}
+
+img {
+    width: 80%;
+}
+
+.mensage-2 {
+    display: block;
+    margin: 109px 0px -36px 33px;
+    width: 42%;
+    position: relative;
+    top: 32px;
+}
+
+.container-type-cellphone,
+.container-type-cellphone-2 {
+    margin: 98px -2px -4px 27px;
+    position: relative;
+    z-index: 1;
+}
+
+.container-type-cellphone {
+    width: 312px;
+    height: 300px;
+    display: inline-block;
+}
+
+.container-type-cellphone-2 {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+
+.div-mensage-1 {
+    margin: 0 0 0 0;
+}
+
+.mensage-variedades {
+    width: 58%;
+    margin: 120px -5px -55px 22%;
+}
+
+#video-main {
+    width: 70.2%;
+    margin: 0px 0 2% 15%;
+    border-radius: 10px;
+}
+
+.article-products {
+    display: block;
+    margin: 100px 0 100px 0;
+}
+
+.peliculas,
+.capinhas,
+.figuras-de-ação,
+.fones-de-ouvido {
+    display: inline-block;
+    width: 34%;
+    margin: 0px;
+    border: 5px solid rgb(221, 221, 221);
+    border-radius: 5px;
+}
+
+.peliculas,
+.figuras-de-ação {
+    margin: 0 2% 0 15%;
+}
+
+.figuras-de-ação,
+.fones-de-ouvido {
+    margin-top: 2%;
+}
+
+.div-produtos-1 {
+    margin: 0 0 0 0;
+}
+
+.div-produtos-2 {
+    margin: 0 0 0 0;
+}
+
+.action-figure-div,
+.paragraph-action-figure {
+    display: inline-block;
+}
+
+.robocop-img {
+    width: 135%;
+    position: relative;
+    left: -68px;
+    bottom: 48px;
+}
+
+.paragraph-action-figure {
+    width: 35%;
+    text-align: justify;
+}
+
+.paragraph-action-figure-2 {
+    width: 178%;
+    font-size: 186%;
+    position: relative;
+    bottom: 83px;
+    left: -26px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 0 0 30px #000;
+}
+
+b {
+    color: #FFDF2C;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.final-message {
+    text-align: center;
+    margin-top: 40px;
+    background-color: #000000;
+    /* Azul */
+    padding: 20px 0;
+}
+
+.final-message p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+}
+
+.article-cellphone-informations-2 {
+    display: none;
+}
+
+.article-img-main {
+    position: relative;
+    top: 50px;
+}
+
+.cellphone-1-1 {
+    position: relative;
+    top: 57px;
+}

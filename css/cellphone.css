@@ -1,0 +1,37 @@
+.iphone {
+    margin: -6px 0px 32px 8px;
+}
+
+.motorola {
+    margin: 0 -3px 35px 5px;
+    width: 220px;
+}
+
+.lenovo {
+    margin: -18px 0 37px -4px;
+    width: 238px;
+}
+
+.xiaomi {
+    margin: 0px 0 67px 4px;
+    width: 254px;
+}
+
+.samsumg {
+    margin: -2px 0 56px 33px;
+    width: 239px;
+}
+
+.asus {
+    margin: 0px 0 81px 13px;
+    width: 247px;
+}
+
+.LG {
+    margin: 0px 0 26px 44px;
+    width: 220px;
+}
+
+.LG-logo {
+    margin: 20px 6px -17px 30px;
+}

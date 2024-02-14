@@ -1,0 +1,71 @@
+@media screen and (max-width: 768px) {
+    body {
+        overflow: hidden;
+    }
+
+    .preparados,
+    main,
+    .div-informations {
+        width: 90%;
+        max-width: none;
+        /* Removemos a largura máxima para permitir que os elementos ocupem toda a largura disponível */
+        margin: 20px auto;
+    }
+
+    .h3-main-div {
+        font-size: 24px;
+        /* Reduzimos ainda mais o tamanho da fonte para telas menores */
+    }
+
+    .whatsapp-button,
+    .email-button {
+        max-width: none;
+        /* Removemos a largura máxima para permitir que os botões ocupem toda a largura disponível */
+    }
+
+    .preparados {
+        width: 96%;
+        position: relative;
+        left: 7px;
+        bottom: 64px;
+    }
+
+    #iframe-media {
+        width: 109%;
+        height: 190px;
+    }
+
+    .address-and-hours {
+        width: 103%;
+        position: relative;
+        top: 415px;
+        left: -32px;
+    }
+
+    main {
+        position: relative;
+        bottom: -10px;
+    }
+
+    .whatsapp-media {
+        position: relative;
+        top: 400px;
+    }
+
+    .whatsapp-button {
+        width: 96%;
+        margin: 39px 0 0 -2px;
+        transition: 0.3s;
+    }
+
+    .email-button {
+        width: 95%;
+        margin: 28px 0 0 18px;
+        transition: 0.3s;
+        position: relative;
+        top: 323px;
+        left: -18px;
+    }
+
+
+}

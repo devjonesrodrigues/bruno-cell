@@ -1,0 +1,76 @@
+body {
+    overflow: hidden;
+}
+
+.preparados {
+    position: relative;
+    width: 71%;
+    z-index: 1;
+    margin: -4px 0 93px 15%;
+}
+
+main {
+    display: block;
+    width: 71%;
+    height: 512px;
+    margin: -24px auto 0 auto;
+    box-shadow: 0 0 40px #000;
+    border-radius: 15px;
+}
+
+.div-maps, .div-informations {
+    display: inline-block;
+}
+
+.div-informations{
+    color: #fff;
+    width: 670px;
+    height: 490px;
+    margin: -22px -9px -6px 670px;
+    position: relative;
+    bottom: 94.2%;
+}
+
+.iframe-maps {
+    width: 210%;
+    height: 510px;
+    padding: 10px;
+}
+
+body {
+    background: #322f2f;
+}
+
+.h3-main-div {
+    font-size: 38px;
+    margin: 4px 0 27px 49px;
+}
+
+.address-and-hours {
+    width: 68%;
+    margin: 0 0 0 46px;
+}
+
+.whatsapp-button{
+    width: 48%;
+    margin: 38px 0 0 17px;
+    transition: 0.3s;
+}
+
+.whatsapp-button:hover {
+    scale: 1.1;
+    transition: 0.3s;
+}
+
+.email-button {
+    width: 65%;
+    margin: 28px 0 0 18px;
+    transition: 0.3s;
+}
+
+.email-button:hover {
+    scale: 1.1;
+    transition: 0.3s;
+}
+
+

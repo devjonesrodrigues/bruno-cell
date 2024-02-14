@@ -1,0 +1,85 @@
+@media screen and (max-width: 480px) {
+
+    * {
+        margin: 0;
+        box-sizing: border-box;
+        padding: 0;
+    }
+
+    #background-color {
+        position: relative;
+        z-index: 1;
+        background-color: rgb(48, 44, 44);
+        width: 100%;
+        height: 100%;
+        bottom: 41%;
+        top: -74px;
+    }
+
+    a {
+        position: relative;
+        font-size: 21px;
+        margin: 0 0 0 26px;
+        color: white;
+        text-decoration: none;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        transition: 0.3s;
+        top: 68px;
+    }
+
+    nav {
+        font-size: 6px;
+        margin: 0;
+        color: white;
+        text-decoration: none;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        transition: 0.3s;
+    }
+
+
+
+    #img-cellphone-broken-main {
+        width: 83%;
+        margin: -9% 0 0 8%;
+    }
+
+    .logo-bruno-cell {
+        position: absolute;
+        width: 64%;
+        margin: 11px 0 0 69px;
+        z-index: 2;
+    }
+
+    .mensage-broken {
+        margin: 37% 0 1px 9%;
+        width: 81%;
+        position: relative;
+        z-index: 1;
+    }
+
+    .background-image {
+        width: 226%;
+        height: 551px;
+        position: relative;
+        right: 248px;
+        bottom: -86px;
+    }
+
+    .cellphone-broken-main {
+        display: none;
+    }
+
+    .logo-main-main {
+        position: absolute;
+        left: -10px;
+        right: -2px;
+        top: 256px;
+        bottom: 6px;
+        width: 110%;
+        z-index: 2;
+    }
+
+
+}
